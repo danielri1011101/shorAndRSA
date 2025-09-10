@@ -1,0 +1,8 @@
+25.09.02
+
+NISQ= Noisy Intermediate Scale Quantum
+
+Carry adders are a big deal. The robust option is based on vbe95
+
+Vedral-Barenco-Ekert-1995: circuits for performing all the arithmetic operations
+required by Shor's algorithm.
